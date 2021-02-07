@@ -11,4 +11,4 @@ During my studies, I have done many Data Science Projects. The most impactful pa
 * To be innovative in my representations.
 
 # Portfolio
-Here's where my awesome visualisations will go!
+Here's where my awesome visualizations will go!
